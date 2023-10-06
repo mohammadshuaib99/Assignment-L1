@@ -8,3 +8,8 @@ int main(){
     cout<<"Wallah";
     return 0;
 }
+
+
+// output :- 
+// Physics
+// Wallah
